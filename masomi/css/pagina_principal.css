@@ -1,0 +1,244 @@
+body{
+    background: rgb(191, 96, 140);
+}
+/*estilizando_menu_de_navegacion*/
+.contenedor_1{
+    width: 1269px;
+    height: 47px;
+    margin-left: -5px;
+    margin-top: -5px;
+    border-radius: 5px;
+    border: 2px solid rgb(0, 0, 0);
+    background: rgb(255, 203, 212);
+}
+.masomy_titulo{
+    margin-left: 5px;
+    font-family: Arial;
+    font-size: 30px;
+    margin-top: 6px;
+}
+.navegadores{
+    margin-left: 620px;
+    font-family: Arial;
+    font-size: 30px;
+    margin-top: -56px;
+}
+.seleccionar_inicio{
+    font-size: 30px;
+    font-family: Arial;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+.seleccionar_sobre_mi{
+    margin-left: 30px;
+    font-size: 30px;
+    font-family: Arial;
+    text-decoration: none;
+    color: black;
+}
+.seleccionar_contactame{
+    margin-left: 30px;
+    font-size: 30px;
+    font-family: Arial;
+    text-decoration: none;
+    color: black;
+}
+.seleccionar_ingresar{
+    margin-left: 30px;
+    font-size: 30px;
+    font-family: Arial;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+/*estilizando_imagen_de_masomy*/
+.masomy_imagen{
+    transform: scale(0.5);
+    width: 1677px;
+    height: 550px;
+    margin-top: -134px;
+    margin-left: -424px;
+}
+/*estilizando_registrarse*/
+.contenedor_2{
+    margin-left: 970px;
+    margin-top: -350px;
+    width: 165px;
+    height: 60px;
+    border-radius: 5px;
+    border: 2px solid rgb(0, 0, 0);
+    background: rgb(255, 203, 212);
+}
+.registrarse{
+    margin-top: 10px;
+    margin-left: 5px;
+    font-family: Arial;
+    font-size: 30px;
+}
+.seleccionar_registrarse{
+    text-decoration: none;
+    color: black;
+}
+.texto_1{
+    margin-left: 920px;
+    font-family: Arial;
+}
+/*estilizando_sobre_mi_empresa*/
+.contenedor_3{
+    margin-top: 112px;
+    margin-left: -5px;
+    width: 500px;
+    height: 300px;
+    border-radius: 5px;
+    border: 2px solid rgb(0, 0, 0);
+    background: rgb(229, 179, 187);
+}
+.contenedor_4{
+    margin-top: -2px;
+    margin-left: -2px;
+    height: 60px;
+    width: 500px;
+    border-radius: 5px;
+    border: 2px solid rgb(0, 0, 0);
+    background: rgb(191, 96, 140);
+}
+.mi_empresa{
+    text-align: center;
+    font-size: 30px;
+    margin-top: 10px;
+    font-family: Arial;
+}
+.texto_2{
+    font-family: Arial;
+    text-align: justify;
+}
+/*estilizando_redes_sociales*/
+.contenedor_5{
+    margin-top: -304px;
+    margin-left: 503px;
+    width: 227px;
+    height: 300px;
+    border-radius: 5px;
+    border: 2px solid rgb(0, 0, 0);
+    background: rgb(229, 179, 187);
+}
+.contenedor_6{
+    margin-top: -2px;
+    margin-left: -2px;
+    height: 60px;
+    width: 227px;
+    border-radius: 5px;
+    border: 2px solid rgb(0, 0, 0);
+    background: rgb(191, 96, 140);
+}
+.redes_sociales{
+    text-align: center;
+    font-size: 30px;
+    margin-top: 10px;
+    font-family: Arial;
+}
+.contenedor_7{
+    width: 60px;
+    height: 60px;
+    margin-top: 5px;
+    margin-left: 5px;
+    border-radius: 5px;
+    border: 2px solid rgb(0, 0, 0);
+    background: rgb(191, 96, 140);
+}
+.icono_de_facebook{
+    margin-left: 23px;
+    margin-top: 13px;
+    text-align: center;
+    font-size: 30px;
+    font-family: Arial;
+}
+.seleccionar_facebook{
+    margin-left: 30px;
+    color: black;
+}
+.contenedor_8{
+    width: 60px;
+    height: 60px;
+    margin-top: 5px;
+    margin-left: 5px;
+    border-radius: 5px;
+    border: 2px solid rgb(0, 0, 0);
+    background: rgb(191, 96, 140);
+}
+.icono_de_instagram{
+    margin-left: 23px;
+    margin-top: 13px;
+    text-align: center;
+    font-size: 30px;
+    font-family: Arial;
+}
+.seleccionar_instagram{
+    margin-left: 40px;
+    color: black;
+}
+/*estilizando_contenido_exclusivo*/
+.contenedor_9{
+    margin-top: -304px;
+    margin-left: 738px;
+    width: 527px;
+    height: 299px;
+    border-radius: 5px;
+    border: 2px solid rgb(0, 0, 0);
+    background: rgb(229, 179, 187);
+}
+.contenedor_10{
+    margin-top: -2px;
+    margin-left: -2px;
+    height: 60px;
+    width: 527px;
+    border-radius: 5px;
+    border: 2px solid rgb(0, 0, 0);
+    background: rgb(191, 96, 140);
+}
+.contenido{
+    text-align: center;
+    font-size: 30px;
+    margin-top: 10px;
+    font-family: Arial;
+}
+.contenedor_11{
+    margin-left: 4px;
+    width: 200px;
+    height: 50px;
+    border-radius: 5px;
+    border: 2px solid rgb(0, 0, 0);
+    background: rgb(191, 96, 140);
+}
+.uniformes{
+    margin-left: 27px;
+    margin-top: 6px;
+    text-align: center;
+    font-family: Arial;
+    font-size: 30px;
+}
+.seleccionar_ver_parte_1{
+    margin-left: 40px;
+    color: black;
+    text-decoration: none;
+}
+.contenedor_12{
+    margin-top: 5px;
+    margin-left: 4px;
+    width: 200px;
+    height: 50px;
+    border-radius: 5px;
+    border: 2px solid rgb(0, 0, 0);
+    background: rgb(191, 96, 140);
+}
+.prendas{
+    margin-left: 27px;
+    margin-top: 6px;
+    text-align: center;
+    font-family: Arial;
+    font-size: 30px;
+}
+.seleccionar_ver_parte_2{
+    margin-left: 70px;
+    color: black;
+    text-decoration: none;
+}

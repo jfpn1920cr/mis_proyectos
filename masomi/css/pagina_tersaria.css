@@ -1,0 +1,81 @@
+body{
+    background: rgb(191, 96, 140);
+}
+/*estilizando_imagen_de_contactame*/
+.contenedor_28{
+    width: 1278px;
+    margin-top: -10px;
+    margin-left: -10px;
+    height: 170px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    border: 2px solid rgb(0, 0, 0);
+    background: rgb(255, 203, 212);
+}
+.contactame_imagen{
+    margin-left: 10px;
+    margin-top: -15px;
+    width: 1250px;
+    height: 200px;
+    transform: scale(0.8);
+}
+/*estilizando_correo_electronico*/
+.contenedor_29{
+    margin-top: 5px;
+    margin-left: 370px;
+    height: 190px;
+    width: 500px;
+    border-radius: 5px;
+    border: 2px solid rgb(0, 0, 0);
+    background: rgb(255, 203, 212);    
+}
+.contenedor_30{
+    margin-top: -2px;
+    margin-left: -2px;
+    height: 60px;
+    width: 500px;
+    border-radius: 5px;
+    border: 2px solid rgb(0, 0, 0);
+    background: rgb(191, 96, 140);
+}
+.correo_electronico{
+    text-align: center;
+    font-size: 30px;
+    margin-top: 10px;
+    font-family: Arial;
+}
+.texto_10{
+    font-size: 30px;
+    font-family: Arial;
+    text-align: center;
+}
+/*estilizando_telefonico*/
+.contenedor_31{
+    margin-top: 5px;
+    margin-left: 370px;
+    height: 190px;
+    width: 500px;
+    border-radius: 5px;
+    border: 2px solid rgb(0, 0, 0);
+    background: rgb(255, 203, 212);    
+}
+.contenedor_32{
+    margin-top: -2px;
+    margin-left: -2px;
+    height: 60px;
+    width: 500px;
+    border-radius: 5px;
+    border: 2px solid rgb(0, 0, 0);
+    background: rgb(191, 96, 140);
+}
+.telefonico_masomy{
+    text-align: center;
+    font-size: 30px;
+    margin-top: 10px;
+    font-family: Arial;
+}
+.texto_11{
+    font-size: 30px;
+    font-family: Arial;
+    text-align: center;
+}

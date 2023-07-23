@@ -1,0 +1,230 @@
+body{
+    background: rgb(191, 96, 140);
+}
+/*estilizando_imagen_de_sobre_mi*/
+.contenedor_13{
+    width: 1261px;
+    margin-top: -10px;
+    margin-left: -10px;
+    height: 360px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    border: 2px solid rgb(0, 0, 0);
+    background: rgb(255, 203, 212);
+}
+.sobre_mi_imagen{
+    margin-left: 120px;
+    margin-top: 5px;
+    width: 1000px;
+    height: 350px;
+}
+/*estilizando_mi_mision*/
+.contenedor_14{
+    margin-top: 5px;
+    margin-left: -2px;
+    height: 190px;
+    width: 500px;
+    border-radius: 5px;
+    border: 2px solid rgb(0, 0, 0);
+    background: rgb(255, 203, 212);    
+}
+.contenedor_15{
+    margin-top: -2px;
+    margin-left: -2px;
+    height: 60px;
+    width: 500px;
+    border-radius: 5px;
+    border: 2px solid rgb(0, 0, 0);
+    background: rgb(191, 96, 140);
+}
+.mi_mision{
+    text-align: center;
+    font-size: 30px;
+    margin-top: 10px;
+    font-family: Arial;
+}
+.texto_3{
+    text-align: justify;
+    margin-top: 4px;
+    font-family: Arial;   
+}
+/*estilizando_mi_vision*/
+.contenedor_16{
+    margin-top: 5px;
+    margin-left: -2px;
+    height: 155px;
+    width: 500px;
+    border-radius: 5px;
+    border: 2px solid rgb(0, 0, 0);
+    background: rgb(255, 203, 212);    
+}
+.contenedor_17{
+    margin-top: -2px;
+    margin-left: -2px;
+    height: 60px;
+    width: 500px;
+    border-radius: 5px;
+    border: 2px solid rgb(0, 0, 0);
+    background: rgb(191, 96, 140);
+}
+.mi_vision{
+    text-align: center;
+    font-size: 30px;
+    margin-top: 10px;
+    font-family: Arial;
+}
+.texto_4{
+    text-align: justify;
+    margin-top: 4px;
+    font-family: Arial;   
+}
+/*estilizando_mis_valores*/
+.contenedor_18{
+    margin-top: 5px;
+    margin-left: -2px;
+    height: 170px;
+    width: 500px;
+    border-radius: 5px;
+    border: 2px solid rgb(0, 0, 0);
+    background: rgb(255, 203, 212);    
+}
+.contenedor_19{
+    margin-top: -2px;
+    margin-left: -2px;
+    height: 60px;
+    width: 500px;
+    border-radius: 5px;
+    border: 2px solid rgb(0, 0, 0);
+    background: rgb(191, 96, 140);
+}
+.mis_valores{
+    text-align: center;
+    font-size: 30px;
+    margin-top: 10px;
+    font-family: Arial;
+}
+.texto_5{
+    text-align: justify;
+    margin-top: 4px;
+    font-family: Arial;   
+}
+/*estilizando_mis_valores*/
+.contenedor_20{
+    margin-top: -537px;
+    margin-left: 744px;
+    height: 190px;
+    width: 500px;
+    border-radius: 5px;
+    border: 2px solid rgb(0, 0, 0);
+    background: rgb(255, 203, 212);    
+}
+.contenedor_21{
+    margin-top: -2px;
+    margin-left: -2px;
+    height: 60px;
+    width: 500px;
+    border-radius: 5px;
+    border: 2px solid rgb(0, 0, 0);
+    background: rgb(191, 96, 140);
+}
+.mi_experiencia{
+    text-align: center;
+    font-size: 30px;
+    margin-top: 10px;
+    font-family: Arial;
+}
+.texto_6{
+    text-align: justify;
+    margin-top: 4px;
+    font-family: Arial;   
+}
+/*estilizando_compromiso_contigo*/
+.contenedor_22{
+    margin-top: 5px;
+    margin-left: 744px;
+    height: 155px;
+    width: 500px;
+    border-radius: 5px;
+    border: 2px solid rgb(0, 0, 0);
+    background: rgb(255, 203, 212);    
+}
+.contenedor_23{
+    margin-top: -2px;
+    margin-left: -2px;
+    height: 60px;
+    width: 500px;
+    border-radius: 5px;
+    border: 2px solid rgb(0, 0, 0);
+    background: rgb(191, 96, 140);
+}
+.compromiso_contigo{
+    text-align: center;
+    font-size: 30px;
+    margin-top: 10px;
+    font-family: Arial;
+}
+.texto_7{
+    text-align: justify;
+    margin-top: 4px;
+    font-family: Arial;   
+}
+/*estilizando_calidad_sin_condiciones*/
+.contenedor_24{
+    margin-top: 5px;
+    margin-left: 744px;
+    height: 170px;
+    width: 500px;
+    border-radius: 5px;
+    border: 2px solid rgb(0, 0, 0);
+    background: rgb(255, 203, 212);    
+}
+.contenedor_25{
+    margin-top: -2px;
+    margin-left: -2px;
+    height: 60px;
+    width: 500px;
+    border-radius: 5px;
+    border: 2px solid rgb(0, 0, 0);
+    background: rgb(191, 96, 140);
+}
+.calidad_sin_concesiones{
+    text-align: center;
+    font-size: 30px;
+    margin-top: 10px;
+    font-family: Arial;
+}
+.texto_8{
+    text-align: justify;
+    margin-top: 4px;
+    font-family: Arial;   
+}
+/*estilizando_calidad_sin_condiciones*/
+.contenedor_26{
+    margin-top: 5px;
+    margin-left: 375px;
+    height: 170px;
+    width: 500px;
+    border-radius: 5px;
+    border: 2px solid rgb(0, 0, 0);
+    background: rgb(255, 203, 212);    
+}
+.contenedor_27{
+    margin-top: -2px;
+    margin-left: -2px;
+    height: 60px;
+    width: 500px;
+    border-radius: 5px;
+    border: 2px solid rgb(0, 0, 0);
+    background: rgb(191, 96, 140);
+}
+.mi_pasión_por_la_moda_empresarial{
+    text-align: center;
+    font-size: 30px;
+    margin-top: 10px;
+    font-family: Arial;
+}
+.texto_9{
+    text-align: justify;
+    margin-top: 4px;
+    font-family: Arial;   
+}
